@@ -1,4 +1,5 @@
 import math
+#Conflict line RoleB
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
     return 0.5 * base * height
